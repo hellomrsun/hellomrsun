@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=hellomrsun.visitor-badge&left_color=blue&right_color=black)
+
+:rocket::rocket::rocket:
+
+
 <!--
 **hellomrsun/hellomrsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
